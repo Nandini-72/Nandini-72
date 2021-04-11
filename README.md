@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there I'm Nandini Jain👋
+#### MERN Developer
 <!--
 **Nandini-72/Nandini-72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
