@@ -3,7 +3,7 @@
 
 
 <h1>This is Nandini Jain </h1>
-- 💻 I’m a Full Stack Develope</br>
+- 💻 I’m a Full Stack Developer</br>
 
 <br>
 <b>Skills:</b><br>
@@ -15,10 +15,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/Nandini-72)  
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiganesh612&langs_count=8&layout=compact)](https://github.com/Nandini-72/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini-72&langs_count=8&layout=compact)](https://github.com/Nandini-72/github-readme-stats)
 - 📫 How to reach me: ...</br>
 <p align="center">
-<a href="https://www.linkedin.com/in/nandini_77/"><img src="https://img.shields.io/badge/nandini_77?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nandini_77/"><img src="https://img.shields.io/badge/-LinkedIn%20-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jainnandini741@gmail.com"><img src="https://img.shields.io/badge/-jainnandini741@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
